@@ -12,7 +12,7 @@ public class Circle extends Shape{
 
     public void draw(){
         System.out.println("Objektname: " + name + "\nObjekttyp : Circle \nMittelpunkt "+ midpoint.toString() +
-                "\nRadius: " + radius + "\n");
+                "\nRadius:     " + radius + "\n");
     }
 
 }

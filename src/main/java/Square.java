@@ -11,7 +11,7 @@ public class Square extends Shape {
     }
 
     public void draw(){
-        System.out.println("Objektname: " + name + "\nObjekttyp : Square \nPunkt1: "+ point1.toString() +
-                "\nPunkt2: " + point2.toString() + "\n");
+        System.out.println("Objektname: " + name + "\nObjekttyp : Square \nPunkt1:     "+ point1.toString() +
+                "\nPunkt2:     " + point2.toString() + "\n");
     }
 }

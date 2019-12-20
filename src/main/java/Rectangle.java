@@ -13,7 +13,7 @@ public class Rectangle extends  Shape {
     }
 
     public void draw(){
-        System.out.println("Objektname: " + name + "\nObjekttyp : Rectangle \nPunkt1: "+ point1.toString() +
-                "\nPunkt2: " + point2.toString() + "\nPunkt3: " + point3.toString() + "\n");
+        System.out.println("Objektname: " + name + "\nObjekttyp : Rectangle \nPunkt1:     "+ point1.toString() +
+                "\nPunkt2:     " + point2.toString() + "\nPunkt3:     " + point3.toString() + "\n");
     }
 }
